@@ -26,7 +26,7 @@ int main()
             cout << "Suma: " <<  x+y << endl;
         break;
     case 2:
-        cout << "Ró¿nica: " << x-y <<endl;
+        cout << "Roznica: " << x-y <<endl;
         break;
     case 3:
        cout << "Iloczyn: " << x*y <<endl;
